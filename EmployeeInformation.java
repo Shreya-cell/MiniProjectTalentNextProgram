@@ -1,6 +1,6 @@
 /*Project number := PR-1 , Topic name := Employee Information*/
 import java.util.*;
-class Employee{  				//creating a class named as employee.
+class EmployeeInformation{  				//creating a class named as employee.
 	int empId;
 	String empName;
 	String joinDate;
